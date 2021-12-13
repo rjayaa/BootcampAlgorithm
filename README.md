@@ -1,2 +1,1 @@
-# BootcampAlgorithm
-algorocre1.0
+bismillah hedsot
